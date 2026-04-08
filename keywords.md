@@ -1,5 +1,6 @@
 # 关键字
 ## 关键字的定义
+python关键字是指在python中保留的特殊含义的单词, 不能作为变量名, 函数名, 类名等.
 ## 关键字的分类
 ### 逻辑与判断关键字
 if elif else in is not or and true false None
