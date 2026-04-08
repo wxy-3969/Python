@@ -15,7 +15,7 @@ async await with nonlocal global yield del
 as from import
 
 ## 官方关键字的获取
-```
+```python
 import keyword
 print(keyword.kwlist)
 ```
